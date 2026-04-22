@@ -1,0 +1,28 @@
+{
+  "name": "NetForge Lab",
+  "short_name": "NetForge",
+  "description": "Network engineering training aid for multicast, EVPN-VXLAN, and data center fabrics.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#091019",
+  "theme_color": "#0b1118",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
